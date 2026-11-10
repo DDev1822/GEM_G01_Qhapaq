@@ -1,0 +1,26 @@
+{
+  "grupo": "G01",
+  "operacion": "Qhapaq Copper",
+  "zip_fuente": "GEM_S04_6_Visualizadores_Alternativas_v0.4.1_DOCENTE.zip",
+  "zip_sha256": "8d7cd6e629d8b01c233a7b3fe040cac02a0f4822c9f1a40e0064653f6052298b",
+  "html_fuente": "GEM_S04_G01_Qhapaq_Copper_Alternativas_v0.4.1.html",
+  "html_s04_sha256": "fe5df70809b4367bed36ec58400d06594a88b51c5fadf3a43a54092907baf325",
+  "html_s11_original_sha256": "27db1af2e05440757497b8ac4c3bfcc8e3a93e630e13e845427e1e6eed6094fc",
+  "base_del_motor_s04": {
+    "group": "G01",
+    "days": 30,
+    "processed_t_month": 850334,
+    "processed_tpd": 28344.466666666667,
+    "crushed_t_month": 944843,
+    "head_grade_fraction": 0.007473240523206073,
+    "recovery_fraction": 0.9036117837014058,
+    "recovery_target_fraction": 0.91,
+    "plant_target_tpd": 30000,
+    "min_design_tpd": 32000.0,
+    "opex_kusd_month": 24730.145036,
+    "processing_variable_kusd_month": 9675.185285399999,
+    "crushed_buffer_start_t": 50000.0,
+    "crushed_buffer_capacity_t": 190000.0,
+    "source": "D01–D03 oficiales, S04; escenarios A/B/C hipotéticos y editables"
+  }
+}
