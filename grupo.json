@@ -6,5 +6,7 @@
   "grupal_sha256": "1bbe3cd8111f5595bb39be9d2c5ca66f60d4838341c1a5dfe10b071c5a607232",
   "repo_url": "https://github.com/DDev1822/GEM_G01_Qhapaq.git",
   "rama_base": "main",
-  "estado_modelos": "D08/D09 sintéticos propuestos; sin ratificación DD"
+  "estado_modelos": "D08/D09 sintéticos propuestos; sin ratificación DD",
+  "historico_sha256": "f877d881b8ddc380c7a2890bf8db3c9174c13ebb031115d46e1747e7786f296e",
+  "historico_t2_sha256": "ca278d416b569920c38148ac0564c374ca62a6e66c7394d9043b392b9bed52b4"
 }
